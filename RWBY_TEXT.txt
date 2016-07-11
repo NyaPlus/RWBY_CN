@@ -1,0 +1,94 @@
+﻿MULTIPLAYER
+多人游戏
+SINGLE PLAYER
+单人游戏
+RANK
+等级
+SETTINGS
+设置
+CREDITS
+制作人员名单
+EXIT
+退出
+ROOSTER TEETH GAMES
+ROOSTER TEETH 游戏组
+ADDITIONAL DEVELOPMENT
+第三方开发者
+VOICES
+配音
+BASED ON THE ORIGINAL SERIES BY
+原作
+MUSIC
+音乐
+EXECUTIVE PRODUCERS
+监制
+ROOSTER TEETH ANIMATION
+ROOSTER TEETH 动画组
+GAME TESTERS
+游戏测试者
+ROOSTER TEETH STUDIO SUPPORT
+ROOSTER TEETH 工作室后勤部
+RTX 2016 GUARDIANS
+RTX 2016 监管
+SPECIAL THANKS
+特别感谢
+VERY SPECIAL THANKS
+非常特别感谢
+and YOU!
+以及热爱这款游戏的你！
+THE END
+完
+CHAPTER ONE
+第一章
+BOOTS ON THE GROUND
+勘察
+GAME
+游戏
+CHAT
+聊天消息
+ERASE PLAYER PROFILE
+清空玩家档案
+REVERT TO DEFAULTS
+恢复默认
+CAMERA
+视角控制
+INVERT
+上下反转
+MOUSE SENSITIVITY
+鼠标灵敏度
+ANALOG SENSITIVITY
+手柄灵敏度
+AUDIO
+音效
+SUBTITLES
+字幕
+VOICE VOLUME
+语音音量
+SFX VOLUME
+音效音量
+MUSIC VOLUME
+音乐音量
+VIDEO
+视频
+FULLSCREEN
+全屏
+SSAO
+环境光遮蔽
+Potato
+破败不堪
+Standard
+战痕累累
+High
+稍有磨损
+Ultra
+崭新出厂
+APPLY VIDEO CHANGES
+应用视频设置
+BACK
+返回
+PROFESSOR
+教授
+Nice work, students!  As you know, we’ve been having some trouble with the Security Network in this area.  We need boots on the ground to investigate.  That means you, team! Onward!
+干得好，学生们！正如我们所知道的，我们的安全网络在这里出现了一些问题，  所以我们需要在这里做些调查。是时候让你们出场了，队员们，出发！
+TEST
+测试

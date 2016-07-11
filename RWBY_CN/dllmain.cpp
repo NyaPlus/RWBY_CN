@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <vector>
 
-#define Max_Length 665
+#define Max_Length 666
 
 FILE *TheText = NULL;
 int mono = 0;
@@ -91,32 +91,35 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 						char *temptext = new char[Max_Length];
 						char *temp2;
 						int leng;
+						BOOL zhongwen = false;
 						while (!feof(TheText))
 						{
 							fgets(temptext, Max_Length, TheText);
-							leng = strlen(temptext)-1;
-							if (temptext[leng] == '\n')
-								temptext[leng] = 0;
-							else
-								leng++;
-							temp2 = (char *)malloc(leng + 1);
-							memcpy_s(temp2, leng + 1, temptext, leng);
-							en.push_back(temp2);
-							en_len.push_back(leng);
-							fgets(temptext, Max_Length, TheText);
+							if (isNyaDebug)
+								MessageBox(0, temptext, "From txt", 0);
 							leng = strlen(temptext) - 1;
 							if (temptext[leng] == '\n')
 								temptext[leng] = 0;
 							else
 								leng++;
 							temp2 = (char *)malloc(leng + 1);
-							memcpy_s(temp2, leng + 1, temptext, leng);
-							zh.push_back(temp2);
-							zh_len.push_back(leng);
+							memcpy_s(temp2, leng + 1, temptext, leng + 1);
+							if (zhongwen)
+							{
+								zh.push_back(temp2);
+								zh_len.push_back(leng);
+								zhongwen = false;
+							}
+							else
+							{
+								en.push_back(temp2);
+								en_len.push_back(leng);
+								zhongwen = true;
+							}
 						}
 						delete[]temptext;
 						fclose(TheText);
-						if (en.size() == zh.size())
+						if (!zhongwen)
 						{
 							mono = (int)GetModuleHandle("mono.dll");
 							CPatch::RedirectJump(mono + 0x135D, &HOOK_DEBUG_1000135D);
