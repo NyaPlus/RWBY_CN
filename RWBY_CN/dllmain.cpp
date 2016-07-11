@@ -13,6 +13,7 @@ std::vector<char *> en;
 std::vector<int> en_len;
 std::vector<char *> zh;
 std::vector<int> zh_len;
+BOOL isNyaDebug = false;
 
 
 void ChangeTextProcess(char **Text, int *size)
@@ -36,6 +37,8 @@ void ChangeTextProcess(char **Text, int *size)
 				{
 					*Text = zh[i];
 					*size = zh_len[i];
+					if (isNyaDebug)
+						MessageBox(0, en[i], "Get!", 0);
 					break;
 				}
 			}
@@ -69,7 +72,11 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 	{
 		case DLL_PROCESS_ATTACH:
 		{
-			//MessageBox(0, "Ready for debug.", "NyaPlus!", 0);
+			if (strstr(GetCommandLine(), " -NyaDebug"))
+			{
+				isNyaDebug = true;
+				MessageBox(0,"Ready for Debug!","NyaPlus!",0);
+			}
 			if (GetModuleFileName(0, path, MAX_PATH))
 			{
 				for (int i = strlen(path) - 1; i >= 0; i--)
