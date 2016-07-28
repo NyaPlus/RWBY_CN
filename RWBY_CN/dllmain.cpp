@@ -31,8 +31,9 @@ void ChangeTextProcess(char **Text, int *size)
 			if (*size == en_len[i])
 			{
 				langt = *size;
+				/*
 				if (langt > 16)
-					langt = 16;
+					langt = 16;*/
 				if (!memcmp(*Text, en[i], langt))
 				{
 					*Text = zh[i];
