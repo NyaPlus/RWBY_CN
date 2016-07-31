@@ -134,11 +134,11 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 		}
 		case DLL_PROCESS_DETACH:
 		{
-			for (int i = 0;i <= zh.size();i++)
+			for (unsigned int i = 0;i <= zh.size();i++)
 				free(zh[i]);
 			zh.clear();
 			zh_len.clear();
-			for (int i = 0;i <= en.size();i++)
+			for (unsigned int i = 0;i <= en.size();i++)
 				free(en[i]);
 			en.clear();
 			en_len.clear();
