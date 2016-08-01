@@ -14,6 +14,7 @@ std::vector<int> en_len;
 std::vector<char *> zh;
 std::vector<int> zh_len;
 BOOL isNyaDebug = false;
+BOOL isOutput = false;
 
 
 void ChangeTextProcess(char **Text, int *size)
@@ -47,9 +48,17 @@ void ChangeTextProcess(char **Text, int *size)
 	}
 }
 
+void OutputProcess(char *Text)
+{
+	fputs(Text,TheText);
+}
+
 void ChangeText(int ebp)
 {
-	ChangeTextProcess((char**)(ebp + 8), (int*)(ebp + 0xC));
+	if(isOutput)
+		OutputProcess(*((char**)(ebp + 8)));
+	else
+		ChangeTextProcess((char**)(ebp + 8), (int*)(ebp + 0xC));
 }
 
 __declspec(naked) void HOOK_DEBUG_1000135D()
@@ -78,6 +87,12 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 				isNyaDebug = true;
 				MessageBox(0,"Ready for Debug!","NyaPlus!",0);
 			}
+			else if(strstr(GetCommandLine()," -OutputText"))
+			{
+				isOutput = true;
+				MessageBox(0, "Output Start!\nFile:RWBY.txt\nFile will be deleted, please backup it if you need.", "NyaPlus!", 0);
+
+			}
 			if (GetModuleFileName(0, path, MAX_PATH))
 			{
 				for (int i = strlen(path) - 1; i >= 0; i--)
@@ -85,7 +100,19 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 					if (path[i] == '\\' || path[i] == '/')
 					{
 						path[i+1] = 0;
-						strcat_s(path, "RWBY_TEXT.txt");
+						if (isOutput)
+							strcat_s(path, "RWBY.txt");
+						else
+							strcat_s(path, "RWBY_TEXT.txt");
+						if (isOutput)
+						{
+							if (fopen_s(&TheText, path, "w+"))
+								break;
+							mono = (int)GetModuleHandle("mono.dll");
+							CPatch::RedirectJump(mono + 0x135D, &HOOK_DEBUG_1000135D);
+							mono += 0x1363;
+							break;
+						}
 						if (fopen_s(&TheText, path, "r+"))
 							break;
 						fseek(TheText, 3, SEEK_SET);
