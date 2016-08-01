@@ -51,6 +51,7 @@ void ChangeTextProcess(char **Text, int *size)
 void OutputProcess(char *Text)
 {
 	fputs(Text,TheText);
+	fputc('\n', TheText);
 }
 
 void ChangeText(int ebp)
@@ -161,6 +162,11 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL,DWORD fdwReason,LPVOID lpvReserved)
 		}
 		case DLL_PROCESS_DETACH:
 		{
+			if (isOutput)
+			{
+				fclose(TheText);
+				break;
+			}
 			for (unsigned int i = 0;i <= zh.size();i++)
 				free(zh[i]);
 			zh.clear();
