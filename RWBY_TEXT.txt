@@ -1,15 +1,21 @@
-﻿MULTIPLAYER
+////////////主菜单////////////
+////////////主菜单////////////
+MULTIPLAYER
 多人游戏
 SINGLE PLAYER
 单人游戏
 RANK
-等级
+段位
 SETTINGS
 设置
 CREDITS
 制作人员名单
 EXIT
 退出
+Return to the previous screen.
+返回主菜单
+////////////致谢////////////
+////////////致谢////////////
 ROOSTER TEETH GAMES
 ROOSTER TEETH 游戏组
 ADDITIONAL DEVELOPMENT
@@ -38,10 +44,8 @@ and YOU!
 以及热爱这款游戏的你！
 THE END
 完
-CHAPTER ONE
-第一章
-BOOTS ON THE GROUND
-勘察
+////////////设置////////////
+////////////设置////////////
 GAME
 游戏
 CHAT
@@ -86,9 +90,761 @@ APPLY VIDEO CHANGES
 应用视频设置
 BACK
 返回
+////////////UI提示////////////
+////////////UI提示////////////
+XP Awarded
+获得经验
+Artifact Found
+发现文物
+Team Attack Execute
+执行团队攻击
+Team Attack Setup
+设置团队攻击
+Wave Complete
+回合结束
+Wave MVP
+回合MVP
+Flawless Wave
+完美回合
+A HUNTRESS HAS FALLEN
+有 猎 人 倒 下
+NOT ENOUGH ULTIMATE
+我没有足够的怒气值
+CONTROL CENTER UNDER ATTACK
+控制中心遭到攻击
+SUBSTATION UNDER ATTACK
+变电站遭到攻击
+Cheater!
+骗子!
+JumpingPuzzle
+跳飞机
+LOCKED
+锁闭
+ACTIVATE
+使用
+Find ancient key
+寻找古代钥匙
+Used Ancient Key
+使用了古代钥匙
+Extra Life!
+奖励一条命!
+Mini Deathstalker
+小型死亡阔步者
+Delivered Fuel
+注入燃料
+Picked Up Fuel
+捡起燃料
+Destroyed Power Node
+摧毁能量节点
+Destroyed Vat
+破坏容器罐
+XP Bonus!
+经验奖励!
+////////////第一章////////////
+////////////第一章////////////
+CHAPTER ONE
+第一章
+BOOTS ON THE GROUND
+勘察
+Something’s amiss in the Emerald Forest. We need boots on the ground to investigate.
+翡翠森林有些地方不对劲，我们需要派出地面部队进行调查。
+Boots on the Ground
+勘察
 PROFESSOR
 教授
 Nice work, students!  As you know, we’ve been having some trouble with the Security Network in this area.  We need boots on the ground to investigate.  That means you, team! Onward!
-干得好，学生们！正如我们所知道的，我们的安全网络在这里出现了一些问题，  所以我们需要在这里做些调查。是时候让你们出场了，队员们，出发！
-TEST
-测试
+干得好, 同学们！正如我们所知, 我们的安全网络在这里出现了一些问题,   所以我们需要在这里做些调查。是时候让你们出场了, 队员们, 出发！
+Ah yes, the Emerald Forest is filled with ruins of ancient kingdoms.  Keep an eye out for artifacts.  Dr.  Oobleck is always looking to expand Beacon’s collection.
+啊~是的。 翡翠之森遍布着古代王国的废墟。 留心寻找文物。 Oobleck博士一直想扩充信标学院的收藏品。
+The security control center for this region is inside that cave.  Go have a look and maybe we can discover what the problem is.
+这地区的安全控制中心就在那个洞穴里。 进去看一看，也许我们发现问题的原因。
+Hmm.  Some sort of foreign object.  I feel like I’ve seen that symbol before… Nevermind that! Defend the control center while I undo the damage.  Make sure your weapons are loaded and your mustache wax is stowed! This could get hairy.
+嗯... 某种外来物。 我感觉曾经见过这个符号... 不管他了！ 当我修复损坏时候保卫好控制中心。 确保武器上好膛并且藏起你的胡子蜡！ 情况可能变得很糟糕。
+Students, we’re a quarter of the way there.  Keep up the good work!
+同学们，四分之一了，保持势头！
+Halfway point, team!
+过半了，队员们！
+Hold on just a little longer, we’re almost finished!
+再坚持一会儿，我们快要完成了！
+Bravo, team! Bravo! The security network in this region is shipshape once again.  I’ll get some of our staff to to see if they can find anything about that mysterious symbol. Excellent work.
+太棒了，队员们！ 太棒了！这区域的安全网络又重新井然有序。 我会排工作人员过来检查，看看他们能否找到任何有关那个神秘符号的线索。 干得漂亮！
+The control center has suffered severe damage!
+控制中心受到严重损害！
+////////////第二章////////////
+////////////第二章////////////
+CHAPTER TWO
+第二章
+TECHNICAL DIFFICULTIES
+技术困难
+Beacon’s security network is down. Find out what’s causing the interference.
+信标的安全网络出现故障，调查找出是什么原因引起的。
+Technical Difficulties
+技术困难
+Another area, another security network in need of repairs. Keep an eye out for any clues about who did this.  We’re all counting on you!
+另一区域，另一个安全网络需要去修复。 细心留意线索这到底是谁干的。 我们都指望你了！
+These are more dangerous than the Grimm you’ve fought before.  When it sees you, it will spin before it charges.  While it’s spinning, dodge out of the way.  It will be disoriented after it passes you.  That’s when you strike!
+这种戮兽比你之前见过的都要危险许多。 一旦它发现了你，就会蓄力翻滚。 翻滚时，你要躲闪避开。 当它错失你之后就会晕头转向。 这时候，揍它！
+Hmm, I know it's a stretch, but maybe you can operate that mechanism to extend the bridge.
+唔...我知道这是条伸缩桥，也许你可以操作那个机械装置把桥伸过去。
+HA! It worked! And… seemed to attract some Grimm. Happy hunting!
+啊~它工作了！ 而且...意味着吸引更多的戮兽。 狩猎愉快！
+Just as I thought: more sabotage from our friend with the symbol. But those cages… was someone trying to capture Grimm? Hrm… I don’t like the looks of this. For now let’s just focus on the objective. Defend that control center while I undo the damage. Get ready!
+正如我所认为：破坏来自于我们熟悉的符号。 但是这些笼子...有人试图捕捉戮兽？ 呃... 我不愿看到情况。 现在我们还是专注眼前的事情????做好准备！
+Students, we're quarter of the way there. Keep up the good  work!
+同学们，已经过了四分之一进度了。 保持势头！
+Good show, team! I’ve just received a report… Hm that’s right, the symbol we’ve been seeing belongs to Merlot Industries, an old research and development corporation -- far before your time. The company was crippled by the collapse of Mountain Glenn, where they lost their primary facility and chief staff members. They never recovered from the incident and eventually shut down. Which begs the question… why is their technology suddenly popping up in the Emerald Forest? Hrmmm, I’ve never been one for riddles and history --  more a man of action if I do say so myself. But I think I know someone who can help… Onward! To VICTORY!
+表现得非常好，队员们！ 我刚收到一份报告... 嗯，没猜错。 我们看到的符号是属于Merlot工业的 —— 一家老的研究和开发公司， 已经很早一段时间了。 这公司因幽谷山脉大崩塌而被毁，他们失去了重要的设施及人员。 他们并没有在这次事故后恢复过来 而最终关闭。 这么说来真有点奇怪...为什么他们的技术突然出现在翡翠森林？ 唔...???? 但我猜有一个人肯定会知道...前进，向着胜利出！发！
+////////////第三章////////////
+////////////第三章////////////
+CHAPTER THREE
+第三章
+THE COLLAPSE
+天崩地裂
+A mysterious symbol links to Merlot Industries in deserted Mountain Glenn.
+一个神秘的符号指向了位于幽谷山脉废墟的Merlot工业。
+The Collapse
+天崩地裂
+Professor Port informed me that you found some old Merlot Industries -- um… well, technology  interfering with our security network.  It might be nothing... OR IT MIGHT BE EVERYTHING! Either way, I believe it’s worth investigating the Merlot Industries building in Mountain Glenn.  If my old maps are still accurate, it should be located somewhere near the center of town. Just do your best not to end up like the brilliant men and women who worked there...
+Port教授告知我，你们发现了旧Merlot工业的痕迹 ——嗯...好吧，这技术干扰我们的安全网络。 也许可能不是...也许情况更糟糕！{抓狂} 无论如何，我相信值得对幽谷山脉的Merlot工业进行调查。 如果我的旧地图依旧准确的话，它应该就在市中心附近。 努力活着不言弃，就像昔日活在这里的人们。
+Well, that’s an issue. It appears the bridge is blocked.  According to my map, you should be able to take a detour through the city’s old waterway system.
+好吧，这就有问题。 看来桥已经被封锁。 根据我的地图，你应该能够绕道穿过城市原有的水道系统。
+Activate that switch to open the lock.  I hope it still works, it looks a little rusty.
+激活开关打开闸锁。 我祈祷它还能使用，毕竟看起来有点生锈。
+Ah ha! The door is open!
+啊哈~！ 门打开了！
+There! That’s the facility! I can’t believe how well it’s withstood the years… a shame, still… Dr. Merlot would’ve never let something like this hinder the progress of his work. I can only imagine what we’ll find inside.
+看那！ 就是那些设施！ 我不敢想象它是怎么经受得起岁月的考验而依然完好... 遗憾了，要是... Merlot博士是不会让这些事妨碍他研究的进度。 我只能想象我们能在里面发现什么。
+Oh dear… Watch out, team! The treasure hunt will have to wait until you kill those Grimm!
+噢，亲爱的... 队员们小心！ 寻宝游戏不得不在消灭所有戮兽之后！
+////////////第四章////////////
+////////////第四章////////////
+CHAPTER FOUR
+第四章
+BELOW THE SURFACE
+地表之下
+The team heads underground to search for clues in the wreckage of Merlot Industries.
+小队前往地下搜索Merlot工业残骸的线索。
+Below the Surface
+地表之下
+[through radio static] “Students, report in!
+[无线电发出的声音]“同学们，报告情况！”
+Thank goodness... I’m afraid you’re now in Mountain Glenn’s subterranean levels.  This area has become even more dangerous since our last...er, visit...so be careful!
+谢天谢地... 恐怕你现在在幽谷山脉的地底下。 这片区域已经变得相当危险 —— 自从我们上次... 呃，到访... 所以保持警惕！
+It appeared to be a creature of Grimm, but modified...mutated.  This will require further study. It’s fascinating… but very, very troubling.  Excellent work, team.
+这似乎是戮兽的一种，但是被改造过...或变异。 这需要进一步的研究。 它是令人着迷...同时也令人非常、非常不安。 表现不错，队员们。
+you should be able to reach an exit through these doors..  Just turn the power back on so we can open them up.
+通过那些门应该就可以到达出口.. 只要门重新通电我们就能打开它们。
+Oh dear… that is a bomb. And a very large bomb at that. Who would booby trap this place?! Give me a moment...
+噢，天... 这是个炸弹。而且还是一个非常大的炸弹摆在这。 谁会埋个炸弹在这里？！ 让我好好思考...
+Okay, team…  Physically tampering with the device or the cart it’s attached to could possibly trigger an explosion. Luckily, these tracks lead to a deep chasm and underground river, but with the way this device is rigged, you’re going to have to power the cart’s engine. Gather as many nearby Dust crystals as you can find! Time is of the essence, but remember to remain calm! [GRIMM HOWLS IN DISTANCE] RIGHT, FORGET THAT! JUST HURRY!
+全员听好了， 如果物理篡改炸弹或者卡车很可能会引发爆炸。 幸运的是， 这条轨道通向一个深渊或是地下河的地方， 只要我们把车推下去引爆就好了， 但是要启动这装置你必须找到能源发动卡车引擎。 尽可能多的去收集附近的尘晶晶体！ 时间紧迫， 但是要记住保持冷静！ [戮兽在远处嚎叫] 好吧，忘记刚才说的。 不要急，快就行！
+The cart is out of fuel.  Grab more dust crystals!
+卡车燃料快耗尽。 收集更多的尘晶晶体！
+The cart seems to have run out of fuel.
+卡车似乎已经耗尽燃料。
+There’s no fuel left in the cart.  HURRY! Gather those dust crystals.
+卡车已经没有燃料了。 快点！ 去采集那些尘晶晶体。
+You’re halfway there!  Keep going!
+已经过半路了！继续前进！
+You’re almost there! OHHH IT’S GONNA BE CLOSE!
+将要快到了！ 噢~ 已经非常接近了！
+[HUGE SIGH OF RELIEF] Well… I’m glad everyone was able to keep their cool… and not explode… that would’ve made for an uncomfortable parent/teacher conference. Still… who reprogrammed the security network? Who set that trap? And where in the world did the mutated Grimm come from? I have several theories… and none of them are good news.
+[深深呼了口气] 好吧... 我猜每个人都保持住冷静... 甚至不炸毛... 这样会有一个令人不爽的家长会。 话说回来，到底是谁改写了安全网？ 是谁设置的陷阱？ 又是哪里制造出这些变异的戮兽？ 我有几种猜测... 不过都不是好的猜测。
+////////////第五章////////////
+////////////第五章////////////
+CHAPTER FIVE
+第五章
+RIGHT ON TRACK
+极速前进
+A pair of train tracks from the Undercity leads to Forever Fall.
+一对列车轨道从地下城引向了永秋之森。
+Right on Track
+极速前进
+////////////第六章////////////
+////////////第六章////////////
+CHAPTER SIX
+第六章
+END OF THE LINE
+铁路尽头
+The team continues exploring Forever Fall only to make a huge discovery.
+小队继续探索永秋之森获得巨大发现。
+End of the Line
+铁路尽头
+////////////第七章////////////
+////////////第七章////////////
+CHAPTER SEVEN
+第七章
+THE ISLAND OF DR. MERLOT
+Merlot博士之岛
+The team finds themselves marooned on a strange island without a way to call home.
+小队发现自己被困在一个陌生的岛上，并与信标失去联系。
+The Island of Dr. Merlot
+Merlot博士之岛
+////////////第八章////////////
+////////////第八章////////////
+CHAPTER EIGHT
+第八章
+A GRIMM DISCOVERY
+戮兽的秘密
+After reaching the other side of the island, Dr. Merlot’s plans become clearer.
+在岛的另一边搜索过后，Merlot博士的计划逐渐清晰。
+A Grimm Discovery
+戮兽的秘密
+////////////第九章////////////
+////////////第九章////////////
+CHAPTER NINE
+第九章
+THE GRAND TOUR
+大巡游
+An invitation into Dr. Merlot’s laboratory results in an unexpected twist.
+被邀请到Merlot博士的实验室，结果是令人出乎意料的神转折。
+The Grand Tour
+大巡游
+////////////第十章////////////
+////////////第十章////////////
+CHAPTER TEN
+第十章
+FINAL EXAM
+最后测试
+Deep in Dr. Merlot’s laboratory lies the ultimate test.
+深藏Merlot博士实验室中的终极考验。
+Final Exam
+最后测试
+////////////Weiss////////////////
+////////////Weiss////////////////
+(SIGHS) And I thought today would be relaxing.
+(눈_눈)还以为今天可以好好休息...
+This looks like it has seen better days.
+这里看起来曾经有过美好的日子.
+Let’s see if this one puts up a challenge.
+如果这是一个挑战，让我们见识见识.
+Is it just me, or do these things seem like they’re attracting Grimm?
+难道是我，还是这样做... 意味吸引戮兽？
+That’s a long way down.
+这里看起来好高.
+Just a little longer!
+只不过稍微久一点
+Here we are again.  I hope things go better than last time.
+又来到这里了.  希望事情比上次简单. ╮(╯_╰)╭
+This place is really falling to pieces.
+这个地方真的是破烂不堪.
+Why can’t things ever be easy?
+为什么事情就不能变得简单？
+More Grimm. How did I know that would happen?
+出现更多戮兽.  为什么我又知道？
+This building looks like it’s seen better days.
+这些建筑昔日应该很辉煌.
+[angry] “The Grimm… they ruined this place.
+٩(๑`н´๑)۶ .这些戮兽！ 他们毁了这地方~！！
+*groan* We’re OK, Dr. Oobleck!
+[呻吟]我们没事，Oobleck博士！
+Let’s not waste any time.
+我们不要浪费时间.
+What WAS that thing!?
+那是什么玩意! ?
+We should look around for a way to open these doors.
+我们也许查看四周找方法打开这些门
+Let’s see if this works.
+让我们看看是不是有效.
+This way seems better.
+貌似这条路比较好.
+Hmmm, it’s probably no accident these columns are here.
+嗯...这些东西绝对不是偶然放在这里.
+Didn’t we beat all these guys already?
+我们不是已经击败这些家伙了？
+That tree is beautiful.
+这树真壮观！
+Another green one. Uh, this isn’t a good sign.
+又有绿色的家伙？呃...这不是个好兆头
+Proper form is still important here. 
+适当的方式出场还是非常重要滴.
+Oh no! Stick together!
+噢不！聚集在一起了！
+Look for a matching symbol?
+寻找一个匹配的符号？
+Another key, perhaps?
+需要另一条钥匙，也许？
+Found it.
+找到了.
+Got it. Let’s go!
+到手. 我们走吧！
+Look for a key in those vases.
+去那些花瓶里寻找钥匙
+What are they loading onto that ship? Something’s not right.
+他们在船上装卸什么？有些不对劲.
+One more key to go.
+再找条钥匙继续
+This temple looks more like a warehouse on the inside.
+这座神庙里面看起来更像是一个仓库.
+What’s in this container over here?
+What’s in this container over here?
+Uh oh. I think we’re a loooong way from Vale.
+啊偶... 我猜我们离Vale大陆 非~ 常~ 远~
+Doctor Oobleck? Speak up we can’t hear you.
+Oobleck博士？我们听不清你说话.
+Hmm… let’s try contacting him from that communications tower.
+嗯... 让我们尝试从通讯塔联系上他.
+Those Androids don’t look like the friendly kind.
+那些机器人看不来并不是好东西.
+Locked tight. There must be a way to get this gate open.
+紧锁着. 必须找个方法打开这扇门
+Ok, we’re at the tower. Now what?
+好的，我们到塔底下了. 现在怎么做？
+We can’t get a signal. There has to be something we can try.
+我们收不到信号. 一定还有什么我们可以再试试.
+Hmmm, not quite sure I caught all that. Something about another tower?
+呃.. 我不确定我所做的。 还有另一个通讯塔？
+The second tower is ahead. Let’s keep going.
+第二个塔就在前面. 我们继续前进.
+Let’s get our communications back online.
+让我们的通信重新恢复.
+Dr. Oobleck?! Who is this?
+Oobleck博士?! 这是谁？
+THAT Dr. Merlot….as in the Merlot Industries one?
+那个—— Merlot博士...是Merlot工业那位？
+What has Merlot done with this part of the island?
+Merlot博士在岛的另一边做些什么？
+There appears to be equipment extracting a green substance and pumping it elsewhere.
+似乎有设备提取绿色物质然后输送到其他地方.
+We should try shutting off the pipeline.
+我们应该试着关闭管道.
+We’ve stopped the flow.
+我们关闭了蒸汽.
+I guess we have no choice but to take this route.
+我猜我们没得选择只能走这条路了.
+There’s no way out!
+无路可走！
+If we go in like you want, what are you going to do with us?
+如果我们如你想象那样，你会对我们做什么？
+One more valve shut. Merlot won’t like that!
+又关了个阀门，Merlot博士不会喜欢的！
+One more objective complete.
+又完成一件事.
+Alright, this one’s closed. We’re getting closer to the lab.
+好的，这个关了。我们越来越靠近实验室了。
+It stopped. That was the last one.
+关闭了，这是最后一个。
+This place is sorta creepy.
+这个地方令人毛骨悚然.
+We’ll need to shut off this steam to get through.
+我们需要关闭蒸汽才能通过.
+The steam is off. We can proceed.
+蒸汽已经关闭了，我们继续前进.
+Any clue where this elevator might take us?
+这电梯可能为我们带来更多线索？
+The Grimm are clearly attracted to that substance.
+戮兽明显是被这物质吸引来的.
+We appear to be in some sort of data processing center.
+我们似乎在某种数据处理中心.
+Negative.
+没有.
+Upload in progress.
+上传中.
+Is it me, or is he being a little too welcoming?
+是我，还是他过于热情？
+Who knew water vapor could be so dangerous?
+谁晓得水蒸气也会如此危险呢？
+Hmm, what do we have here?
+嗯，这是什么？
+Don’t worry, we’ll take care of this.
+别担心，我们会处理的。
+His machines won’t work if the power’s out.
+停电了他的机器就不会运作.
+The floor is booby trapped!
+地板是个陷阱！
+Get to the vent, ASAP. 
+赶紧到通风口，尽快！
+Dr. Merlot won’t have anything left when we’re finished.
+当一切结束的时候，Merlot博士不会得到任何东西.
+Is now a good time to ask about that extra credit we should be receiving?
+现在可以问，我们会有加分吗？
+That’s one deadly looking specimen. Be Careful!
+这是一个致命的样本。小心！
+Flawless takedown.
+完美拿下
+There! A way out.
+看那！有出路。
+Not a moment too soon.
+不一阵子而已.
+That was textbook form.
+教科书式动作
+This looks interesting.
+这玩意看起来很有趣
+What do we have here?
+我们在这里发现了什么？
+Another one for my collection.
+本小姐又收集了一个
+And that's why they call me the Ice Queen.
+这就是为什么称本小姐为冰雪女王的原因
+Another perfectly timed  move.
+又一次恰到好处的行动
+A+
+A+
+Almost perfect.
+近乎完美
+Aw, too cold for you?
+喔，对你太冷酷了？
+I’ll take that.
+我带走它了.
+Hmph! Is that it?
+哼！就这能耐?
+So easy.
+小菜一碟
+And done.
+一样搞定~ ╮(╯_╰)╭
+No match for me.
+毫无难度~
+Perfect form.
+完美姿态
+Eliminated!
+歼灭！
+Goodbye.
+再见
+It’s about time.
+是时候了
+Finally!
+终于！
+Excellent.
+漂亮！
+Thank you!
+Thank you!(﹡ˆ﹀ˆ﹡)♡
+It’s only a scratch.
+只是受点小伤！{不忿}
+I was just resting.
+我只是歇息一会{不忿}
+[grunts] Much appreciated.
+[嘟囔]非常感激{嘟嘴}
+That's what teammates are for.
+这就是队友. (´ڡ`❤
+What a perfect setup.
+????真是完美的配合
+Nice teamwork.
+真有默契
+Thanks for the assist.
+多谢协助
+////////////技能////////////
+////////////技能////////////
+Countering enemies gives an increased chance to create a team attack opportunity.
+反击敌人会增加团队攻击的触发几率
+Reduces the hitstreak needed to gain a bonus towards ultra.
+降低"获得大幅度怒气值奖励"的连击上限
+Ruby fires a bullet made of Dust which explodes on impact.
+Ruby发射一发用尘晶制造的子弹，一旦碰撞便会爆炸
+Dust Blast uses electric dust, which chains lightning between enemies near the explosion.
+用电属性尘晶制造的子弹，爆炸范围内的敌人形成闪电链
+Dust Blast uses ice dust, which freezes enemies hit by the explosion.
+用冰属性尘晶制造的子弹，爆炸范围内的敌人将被冻结
+Dust Blast uses fire dust, which greatly increases the explosion's damage.
+用火属性尘晶制造的子弹，大大增加爆炸时的伤害
+Ruby teleports into the air and spirals downward with the Crescent Rose, smashing into the ground when she lands.
+Ruby瞬间移动到空中并拿着新月玫瑰翻滚，落地时将其重重砸向地上
+Reap's damage is greatly increased and surrounding enemies are also affected.
+提高收割产生的伤害，且周围的敌人也会受到影响
+Reap creates a wave of rocks around Ruby which smash nearby enemies backward.
+收割时Ruby身边将产生一波岩石击退附近的敌人
+Ruby quickly spins the Crescent Rose in a circle around her, knocking all nearby enemies backward. 
+Ruby拿起新月玫瑰在周身快速旋转，击退身边敌人
+Ruby spins 3 times and Crescendo's range is greatly increased.
+Ruby旋转3周，新月旋风的半径也随之增大
+Crescendo's final hit smashes enemies backward for a very high amount of damage.
+新月旋风最后一击将所有敌人往外推，借此产生非常高的伤害
+Crescendo pulls enemies towards Ruby with each hit.
+新月旋风每一次攻击敌人，都会往Ruby身边拉
+
+
+Weiss freezes enemies when countering them.
+Weiss的反击会使敌人冻结
+Weiss gains more progress towards ultimate when completing a hitstreak.
+当Weiss计满一次连击，会给予更多怒气值奖励
+Weiss shoots 3 beams at once at her target.
+Weiss向目标一次发射3发弹幕弹  4个Weiss使用该技能可以触发B站弹幕(误)
+Weiss unleashes a storm of dust-enhanced projectiles, which home in on nearby targets.
+Weiss释放出增强尘晶弹，自动制导附近的目标。
+Weiss shoots an incicle that freezes enemies in its path.
+Weiss射出一条冰柱冻结沿路的敌人
+Weiss leaps into the air and plunges Myrtenaster down in a punishing blow.
+Weiss跃至空中，使用柳叶白菀奋力下♀插
+Frostbite now damages all enemies in the surrounding area.
+霜寒现在能对身边的敌人造成伤害
+Frostbite does increased damage to surrounding enemies and causes them to freeze.
+霜寒对身边的敌人产生更多伤害并使之冻结
+Weiss releases a burst of energy, damaging nearby enemies.
+Weiss爆发一阵能量，对身边的敌人造成伤害
+Nova's damage and radius is increased and also stuns enemies.
+增加新星的范围和伤害，同时能够眩晕敌人
+Nova freezes all enemies.
+新星冻结所有敌人!
+
+
+Blake's counter deals increased damage.
+Blake的反击伤害增加
+Blake can go twice as long between hits without resetting her hitstreak.  Additionally, the first hit Blake suffers during a hitstreak doesn't cause it to reset.
+Blake重置连击数的攻击间隔是正常状态的两倍。  而且，在连击中，击中Blake的第一次攻击不会重置连击数。
+Blake hurls an energy blade which explodes on impact, dealing massive damage to the first enemy it hits.
+Blake掷出能量刃，第一个碰撞到的敌人随之爆炸并产生大量伤害
+Blake fires a horizontal blade beam that damages and stun enemies in a wide arc.
+Blake发射一个横向刃波使扇形范围内的敌人产生伤害并晕厥
+Blake fires three beams at a single target that do massive damage.
+Blake对单个目标发射3道刃波造成伤害
+Blake fires five beams at a single target that do massive damage.
+Blake对单个目标发射5道刃波造成伤害  （没错，原文就是5发）
+Blake and her clones dash around an enemy while slashing it up to three times.
+Blake与她的克隆砍击敌人3次
+Blake and her clones dash around an enemy while slashing it up to four times. Also, surrounding enemies take damage.
+Blake与她的克隆砍击敌人达4次。同时附近的敌人也受到伤害
+Blake and her clones dash around an enemy while slashing it up to five times.  Surrounding enemies take increased damage.
+Blake与她的克隆砍击敌人达5次。同时附近敌人受到伤害增加
+Blake jumps backwards, leaving a shadow clone of herself that slashes at enemies.
+Blake往后一跃，留下她的影克隆攻击敌人
+Blake's clone turns into Earth, which creates an earthquake that smashes away all enemies in a large area around it.
+Blake的克隆转为土属性，释放制造一个大范围的地震并击退敌人
+Blake's clone turns into Ice, and freezes all enemies in an area around it.
+Blake的克隆转为冰属性，释放后冻结范围内的敌人
+Blake's clone turns into Fire, and explodes after a brief delay, dealing high damage.
+Blake的克隆转为火属性，释放后几秒爆炸，伤害最高
+
+
+Yang's counter stuns enemies for longer.
+Yang的反击能晕厥敌人更长时间
+When Yang's aura is depleted she regains all ultimate.  Has a 30 second cooldown.
+当Yang的元气耗尽马上灌满全部怒气  （需要30秒的冷却时间）
+Yang fires 2 missles at the end of her ranged attack.
+Yang的远程攻击尾段会发射2发飞弹
+Yang now fires 4 missles that do more damage and stun enemies.
+Yang发射4发飞弹能造成更多伤害和晕厥敌人
+Yang now fires 8 missles that do heavy damage.
+Yang同时发射8发飞弹造成严重破坏
+Yang punches with such force she creates a shockwave that smashes her target backwards.
+Yang从目标的身后奋力出拳制造出冲击波击退敌人
+Yang creates a cascade of rocks in front of her damaging additional enemies.
+Yang制造出一连串的岩石攻击她面前的其他敌人
+Yang creates an even larger cascage of rocks which damages all enemies in a line in front of her.
+Yang制造出一大串岩石流对她面前的所有敌人造成伤害
+Yang slams her gauntlet into the ground, creating a wave of energy which damages all nearby enemies.
+Yang使用灰烬天堂猛烈撞击地面，制造出能量波攻击附近的敌人
+Quake deals more damage in a larger radius.
+地震在更大范围内制造更多伤害
+Quake smashes enemies backwards and causes more damage.
+地震能击退怪物并使之承受更多伤害
+Quake creates a shield of rock pillars around Yang that enemies cannot get through.
+地震会在Yang的四周建立岩石护盾，敌人不可通过
+
+
+Survivor
+Survivor:幸存者
+You can survive more damage after your aura is depleted.
+当你的元气耗尽后，您可以承受更多的伤害。
+Aura Regeneration
+Aura Regeneration:元气重生
+Your aura recovers much faster.
+你的元气恢复的更快
+Medic
+Medic:战地医生
+Revive teammates much faster.
+更快复活队友
+Increased Aura
+Increased Aura:增强元气
+You gain more aura.
+你获得更多的元气
+Heavy Synergy
+Heavy Synergy:重击效应
+Heavy attacks have an improved chance to create a team attack opportunity.
+使用重攻击会增加团队攻击的触发几率
+Improved Ultimate 1
+怒气槽 +1
+Your ultimate pool increases by 1.
+你的怒气槽将增加1条
+
+
+Slugger
+Slugger:重击者
+Defeat enemies with heavy attacks to unlock this ability.
+使用重攻击击败敌人以解锁此能力
+Ultimatum
+Ultimatum:最后通牒
+Defeat enemies with ultimate attacks to unlock this ability.
+使用终结技击败敌人以解锁此能力
+Master Hunter
+Master Hunter:猎人大师
+Defeat enemies to unlock this ability.
+击败敌人以解锁此能力
+Hunter
+Hunter:猎人
+Reach experience level 5 as any character.
+任意角色达到5级
+Savior
+Savior:救星
+Revive teammates to unlock this ability.
+复活队友以解锁此能力
+
+
+Reach level 10 as Ruby to unlock this ability.
+Ruby到达10级以解锁此能力
+Counter enemies as Ruby to unlock this ability.
+用Ruby对敌人进行反击以解锁此能力
+Defeat enemies with ranged attacks as Ruby to unlock this ability.
+用Ruby的远程攻击击杀敌人以解锁此能力
+Reap Mastery
+Reap Mastery:收割精通
+Defeat enemies with Reap to unlock this ability.
+使用收割击败敌人以解锁此能力
+Crescendo Mastery
+Crescendo Mastery:新月旋风精通
+Defeat enemies with Crescendo to unlock this ability.
+使用新月旋风击败敌人以解锁此能力
+
+
+Counter enemies as Weiss to unlock this ability.
+用Weiss对敌人进行反击以解锁此能力
+Reach level 10 as Weiss to unlock this ability.
+Weiss到达10级以解锁此能力
+Defeat enemies with ranged attacks as Weiss to unlock this ability.
+用Weiss的远程攻击击杀敌人以解锁此能力
+Frostbite Mastery
+Frostbite Mastery:霜寒精通
+Defeat enemies with Frostbite to unlock this ability.
+使用霜寒击败敌人以解锁此能力
+Nova Mastery
+Nova Mastery:新星精通
+Defeat enemies with Nova to unlock this ability.
+使用新星击败敌人以解锁此能力
+
+
+Counter Mastery
+Counter Mastery:反击精通
+Counter enemies as Blake to unlock this ability.
+用Blake对敌人进行反击以解锁此能力
+Shadowcat
+Shadowcat:暗影黑猫
+Reach level 10 as Blake to unlock this ability.
+Blake到达10级以解锁此能力
+Ranged Mastery
+Ranged Mastery:远程精通
+Defeat enemies with ranged attacks as Blake to unlock this ability.
+用Blake的远程攻击击杀敌人以解锁此能力
+Shadow Strike Mastery
+Shadow Strike Mastery:暗影突袭精通
+Defeat enemies with Shadow Strike to unlock this ability.
+使用暗影突袭击败敌人以解锁此能力
+Defeat enemies with Shadow Clone to unlock this ability.
+使用影克隆击败敌人以解锁此能力
+Shadow Clone Mastery 1
+Shadow Clone Mastery 1:影克隆精通1
+Shadow Clone Mastery 2
+Shadow Clone Mastery 2:影克隆精通2
+
+
+Counter enemies as Yang to unlock this ability.
+用Yang对敌人进行反击以解锁此能力
+Reach level 10 as Yang to unlock this ability.
+Yang到达10级以解锁此能力  备注：Chitty Chitty Yang Yang是电影《Chitty Chitty Bang Bang》的近音，中文名称为飞天万能车。
+Defeat enemies with ranged attacks as Yang to unlock this ability.
+用Yang的远程攻击击杀敌人以解锁此能力
+Blast Wave Mastery
+Blast Wave Mastery:冲击波精通
+Defeat enemies with Blast Wave to unlock this ability.
+使用冲击波击败敌人以解锁此能力
+Quake Mastery
+Quake Mastery:地震精通
+Defeat enemies with Quake to unlock this ability.
+使用地震败敌人以解锁此能力
+////////////Rank////////////
+////////////Rank////////////
+Collect 10 artifacts.
+收集10个文物
+Collect 15 artifacts.
+收集15个文物
+Perform 50 Assists.
+执行50次助攻
+Unlock 4 Mastery Challenges.
+解锁4个精通挑战
+Unlock 6 Mastery Challenges.
+解锁6个精通挑战
+Unlock 8 Mastery Challenges.
+解锁8个精通挑战
+Unlock 10 Mastery Challenges.
+解锁10个精通挑战
+Reach max level as four different characters.
+4个不同的角色达到满级
+Reach max level as one character.
+任意一个角色达到满级
+Reach max level as two different characters.
+任意两个角色达到满级
+Get a hit streak of 50 or higher.
+成功达到50连击甚至更高!
+Get a hit streak of 75 or higher.
+成功达到75连击甚至更高!
+Get a hit streak of 100 or higher.
+成功达到100连击甚至更高!
+Perform 50 Counters.
+执行50次反击
+Get 5 Flawless Waves.
+拿下5轮完美回合
+Get 50 Flawless Waves.
+拿下50轮完美回合
+Kill 200 Androids.
+击杀200个机器人
+Kill 150 Alpha Beowolves.
+击杀150只 Alpha级贝奥狼
+Kill 20 Mutant Beowolves.
+击杀20只 变异贝奥狼
+Kill 300 Beowolves.
+击杀300只 贝奥狼
+Kill 100 Boarbatusks.
+击杀100只 獠牙野猪
+Break 100 crates or pots.
+破坏100个 箱子或陶罐
+Kill 150 Alpha Creeps.
+击杀150只 Alpha级蠕虫
+Kill 100 Mutant Creeps.
+击杀100只 变异蠕虫
+Kill 300 Creeps.
+击杀300只 蠕虫
+Get 50 kills with ranged attacks.
+使用远程攻击杀死50个敌人
+Kill 3000 Grimm.
+击杀3000只戮兽
+Kill 20 Ursas.
+击杀20只拉丁熊
+Kill 30 Ursas.
+击杀30只拉丁熊
+Revive 10 teammates.
+复活10名队友
+Revive 20 teammates.
+复活20名队友
+Stun 100 Grimm.
+击晕100只戮兽
+Stun 200 Grimm.
+击晕200只戮兽
+Set up 20 Team Attacks.
+设置20次团队攻击
+Perform 20 Team Attacks.
+执行20次团队攻击
+Perform 100 Team Attacks.
+执行100次团队攻击
+Perform 100 Ultimate Attacks.
+执行100次终结技
+Get 10 Wave MVPs.
+获得10次MVP评价
+Get Wave MVP 50 times.
+获得50次MVP评价
+You have graduated to Rank 1.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经1段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 2.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经2段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 3.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经3段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 4.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经4段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 5.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经5段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 6.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经6段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 7.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经7段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 8.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经8段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 9.  Your character levels, challenges, and abilities have been reset but other Hunters will now view this badge next to your name.
+你已经9段毕业，你的角色的等级，挑战，和能力已经重置，而且其他猎人将在你名字的旁边看见这个徽章。
+You have graduated to Rank 10, the final rank.
+你已经10段毕业了，这是终极段位
